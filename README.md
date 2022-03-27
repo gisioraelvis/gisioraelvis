@@ -57,9 +57,7 @@
             &nbsp;
             <img src="./assets/images/tech/tailwindcss.png" width="60" title='Tailwind CSS' alt="tailwindcss"/>
             &nbsp;
-            <img src="./assets/images/tech/nodejs.png" width="70" title='NodeJS' alt="nodejs"/>
-            &nbsp;
-            <img src="./assets/images/tech/expressjs.png" width="60" title='ExpressJS' alt="expressjs"/>
+            <img src="./assets/images/tech/expressjs.png" width="60" title='NodeJS + ExpressJS' alt="nodejs+expressjs"/>
             &nbsp;
             <img src="./assets/images/tech/nestjs.png" width="70" title='NestJS' alt="nestjs"/>
             &nbsp;
