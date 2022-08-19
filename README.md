@@ -2,15 +2,16 @@
     <h1> Hi 
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
     </h1>
-    <a href="https://gisioraelvis.github.io/gisioraelvis/">
-        <img src="./assets/images/portifolio_hero_section.png" width="100%" alt="portifolio_hero_section"/>
-    </a>
-    <br/>
     <p>
         🙏🏻 Welcome to my Github Profile!<br />
         I am a <b>Web Developer</b> 🚀 .<br />
         I love experimenting and building with Tech 😍 
     </p>
+    <br/>
+    <a href="https://gisioraelvis.github.io/gisioraelvis/">
+        <img src="./assets/images/portifolio_hero_section.png" width="100%" alt="portifolio_hero_section"/>
+    </a>
+    <br/>
     <div>
         <a href="https://twitter.com/gisioraelvis" target="_blank">
             <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
