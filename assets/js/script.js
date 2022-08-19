@@ -47,7 +47,7 @@ $(document).ready(() => {
   var i = 1;
   let changeTitle = () => {
     let titles = [
-      "Software Developer"
+      "Software Developer",
       "Web Developer",
       "Programmer",
       "UI/UX Designer",
