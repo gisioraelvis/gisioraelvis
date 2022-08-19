@@ -1,11 +1,9 @@
 <div align="center">
-    <h1>Hello, I am 
-        <a href="https://gisioraelvis.github.io/gisioraelvis/" target="_blank">Gisiora Elvis</a> 
+    <h1> Hello 
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
     </h1>
     <a href="https://gisioraelvis.github.io/gisioraelvis/">
-        <img src="./assets/images/portifolio_hero_section.png" width="100%"
-            alt="portifolio_hero_section"/>
+        <img src="./assets/images/portifolio_hero_section.png" width="100%" alt="portifolio_hero_section"/>
     </a>
     <br/>
     <p>
