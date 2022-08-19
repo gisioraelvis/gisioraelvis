@@ -4,7 +4,7 @@
     </h1>
     <p>
         🙏🏻 Welcome to my Github Profile!<br />
-        I am a <b>Web Developer</b> 🚀 .<br />
+        I am a <b>Software Developer</b> 🚀 .<br />
         I love experimenting and building with Tech 😍 
     </p>
     <br/>
