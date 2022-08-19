@@ -9,7 +9,7 @@
     </p>
     <br/>
     <a href="https://gisioraelvis.github.io/gisioraelvis/">
-        <img src="./assets/images/portifolio_hero_section.png" width="100%" alt="portifolio_hero_section"/>
+        <img src="./assets/images/my-portifolio-hero-section.png" width="100%" alt="portifolio_hero_section"/>
     </a>
     <br/>
     <div>
