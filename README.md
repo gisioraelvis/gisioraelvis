@@ -33,7 +33,7 @@
         </h2>
         <ul>
             <p> 
-            👨🏻‍ Pursuing Bsc. Computer Science at Egerton Universty Kenya ✍🏻 💻
+            👨🏻‍ Pursuing Bsc. Computer Science at Egerton University - Kenya ✍🏻 💻
             <p>
         </ul>
     </div>
