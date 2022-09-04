@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> Helloo 
+    <h1> Helloo! 
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
     </h1>
     <p>
