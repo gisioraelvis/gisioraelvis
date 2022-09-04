@@ -3,8 +3,8 @@
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
     </h1>
     <p>
-        🙏🏻 Welcome to my Github Profile!<br />
-        I am a <b>Software Developer</b> 🚀 .<br />
+        Welcome to my Github Profile</b>🙏 .<br />
+        I am a <b>Software Developer</b>🚀 .<br />
         I love experimenting and building with Tech 😍 
     </p>
     <br/>
