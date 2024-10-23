@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gisioraelvis.gisioraelvis">
 <div align="center">
     <h1> Helloo! 
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
@@ -33,7 +34,7 @@
         </h2>
         <ul>
             <p> 
-            👨🏻‍ Pursuing Bsc. Computer Science at Egerton University - Kenya ✍🏻 💻
+            👨🏻‍ Currently working as a full-stack web developer. 💻
             <p>
         </ul>
     </div>
