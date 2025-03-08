@@ -16,7 +16,7 @@ Driven by Agile methodologies, collaborative innovation and continuous technical
 
 With strengths in:
 
-🧠 critical thinking, 📊 analytical problem-solving, 👥 teamwork, 🗣️ clear communication, and 🔄 adaptability.
+🧠 critical thinking, 📊 analytical problem-solving, 👥 teamwork, 🗣️ clear communication and 🔄 adaptability.
 
 ## Tech Stack 🛠️
 
