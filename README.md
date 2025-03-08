@@ -1,79 +1,84 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gisioraelvis.gisioraelvis">
-<div align="center">
-    <h1> Helloo! 
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
-    </h1>
-    <p>
-        Welcome to my Github Profile 🙌 <br/>
-        I am a <b>Software Developer 👨‍💻 <br/>
-        I love experimenting and building with Tech 😍 
-    </p>
-    <br/>
-    <a href="https://gisioraelvis.github.io/gisioraelvis/">
-        <img src="./assets/images/my-portifolio-hero-section.png" width="100%" alt="portifolio_hero_section"/>
-    </a>
-    <br/>
-    <div>
-        <a href="https://twitter.com/gisioraelvis" target="_blank">
-            <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-        </a>
-        <a href="https://www.linkedin.com/in/gisiora-elvis" target="_blank">
-            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-        <a href="mailto:gisioraelvis20@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-    </div>
-</div>
 
-<div>
-    <div>
-        <h2>
-            <img align="center" 
-            src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
-            What I'm up to currently
-        </h2>
-        <ul>
-            <p> 
-            👨🏻‍ Currently working as a full-stack web developer. 💻
-            <p>
-        </ul>
-    </div>
-    <div>
-        <h2>🧰 Languages & Tools I've Worked With So Far</h2>
-        <p align="center">
-            <img src="./assets/images/tech/js.png" width="50" title='Javascript' alt="Javascript"/>
-            &nbsp;
-            <img src="./assets/images/tech/html5.svg" width="50" title='HTML5' alt="HTML5"/>
-            &nbsp;
-            <img src="./assets/images/tech/css3.svg" width="35" title='CSS3' alt="CSS3"/>
-            &nbsp;
-            <img src="./assets/images/tech/reactjs.png" width="42" title='reactjs' alt="reactjs"/>
-            &nbsp;
-            <img src="./assets/images/tech/redux.jpg" width="42" title='redux' alt="redux"/>
-            &nbsp;
-            <img src="./assets/images/tech/nextjs.png" width="50" title='nextjs' alt="nextjs"/>
-            &nbsp;
-            <img src="./assets/images/tech/ts.svg" width="50" title='TypeScript' alt="TypeScript"/>
-            &nbsp;
-            <img src="./assets/images/tech/tailwindcss.png" width="60" title='Tailwind CSS' alt="tailwindcss"/>
-            &nbsp;
-            <img src="./assets/images/tech/expressjs.png" width="60" title='NodeJS + ExpressJS' alt="nodejs+expressjs"/>
-            &nbsp;
-            <img src="./assets/images/tech/nestjs.png" width="70" title='NestJS' alt="nestjs"/>
-            &nbsp;
-            <img src="./assets/images/tech/mongodb.jpg" width="70" title='MongoDB' alt="mongodb"/>
-            &nbsp;
-            <img src="./assets/images/tech/mysql.png" width="70" title='MySQL' alt="mysql"/>
-            &nbsp;
-            <img src="./assets/images/tech/pgsql.png" width="70" title='Postgre SQL' alt="Postgre SQL"/>
-            &nbsp;
-            <img src="./assets/images/tech/java.png" width="80" title='Java' alt="Java"/>
-            &nbsp;
-            <img src="./assets/images/tech/git.svg" width="48" title='Git' alt="Git"/>
-            &nbsp;
-            <img src="./assets/images/tech/vs_code.svg" width="50" title='VS Code'alt="VS Code"/>
-            &nbsp;
-            <img src="./assets/images/tech/intellij.png" width="50" title='Intellij IDEA'alt="Intellij IDEA" />
-            &nbsp;
-        </p>
-    </div>
+# Hi 👋, I'm Elvis
+
+> Software Engineer | Full-Stack Developer | Cloud Architect
+
+Expert at:
+
+- 🔨 Building scalable, resilient cloud-native applications
+- 🔄 Implementing CI/CD pipelines and DevOps best practices
+- 🧪 Crafting comprehensive testing strategies for system reliability
+- 🔌 Designing and integrating robust APIs for seamless system communication
+- 📊 Optimizing performance across complex distributed systems
+
+Driven by Agile methodologies, collaborative innovation and continuous technical growth.
+
+With strengths in:
+
+🧠 critical thinking, 📊 analytical problem-solving, 👥 teamwork, 🗣️ clear communication, and 🔄 adaptability.
+
+## Tech Stack 🛠️
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>Languages & Frameworks</h3>
+      <div>
+        <!-- Web Foundations -->
+        <a href="#" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
+        <a href="#" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
+        <br>
+        <!-- JavaScript Ecosystem -->
+        <a href="#" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+        <a href="#" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+        <a href="#" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+        <a href="#" title="Express.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
+        <br>
+        <a href="#" title="NestJS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></a>
+        <a href="#" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+        <a href="#" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
+        <a href="#" title="Angular"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a>
+        <br>
+        <!-- Java Ecosystem -->
+        <a href="#" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+        <a href="#" title="Spring Boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>
+        <br>
+        <!-- .NET Ecosystem -->
+        <a href="#" title="C#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+        <a href="#" title=".NET"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/></a>
+      </div>
+    </td>
+    <td valign="top">
+      <h3 align="center">Databases</h3>
+      <div align="center">
+        <a href="#" title="Microsoft SQL Server"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/></a>
+        <a href="#" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+        <br>
+        <a href="#" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+        <a href="#" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+        <br>
+        <a href="#" title="Redis"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
+      </div>
+    </td>
+    <td valign="top">
+      <h3 align="center">Cloud & DevOps</h3>
+      <div align="center">
+        <a href="#" title="AWS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+        <a href="#" title="Azure"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
+        <a href="#" title="GCP"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/></a>
+        <br>
+        <a href="#" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+        <a href="#" title="Kubernetes"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
+        <br>
+        <a href="#" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+        <a href="#" title="GitLab"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
+        <br>
+        <a href="#" title="Jenkins"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a>
+        <a href="#" title="Azure DevOps"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="azuredevops" width="40" height="40"/></a>
+        <a href="#" title="Jira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/></a>
+        <a href="#" title="Figma"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
