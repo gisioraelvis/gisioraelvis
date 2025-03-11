@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Elvis
 
-> Software Engineer | Full-Stack Developer | Cloud Solutions Specialist
+> Software Engineer | Full-Stack Developer | Cloud Architect
 
-Expert at:
+## 🔧 Expert At
 
 - 🔨 Building scalable, resilient cloud-native applications
 - 🔄 Implementing CI/CD pipelines and DevOps best practices
@@ -14,20 +14,34 @@ Expert at:
 
 Driven by Agile methodologies, collaborative innovation and continuous technical growth.
 
-With strengths in:
+With strengths in: 🧠 critical thinking, 📊 analytical problem-solving, 👥 teamwork, 🗣️ clear communication and 🔄 adaptability.
 
-🧠 critical thinking, 📊 analytical problem-solving, 👥 teamwork, 🗣️ clear communication and 🔄 adaptability.
+## 📚 Currently Learning
 
-## Tech Stack 🛠️
+I'm focused on Solution Architecture and Systems Scalability and Availability.
+
+- Enterprise-level architectural patterns for distributed systems
+- Multi-cloud deployment strategies and best practices
+- High-availability design patterns for mission-critical applications
+- Microservices orchestration at scale
+- Cloud cost optimization and resource governance
+
+## 🏆 Professional Certifications
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="20" height="20"/> **Azure Developer Associate** – Microsoft
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> **AWS Cloud Essentials** – AWS
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="20" height="20"/> **Google Cloud Digital Leader** – Google
+
+## 🛠️ Tech Stack
 
 <table style="width:100%; table-layout:fixed">
   <tr>
-    <th align="center" colspan="2">Core Development</th>
-    <th align="center">Operations & Infrastructure</th>
+    <th align="center" colspan="2">💻 Core Development</th>
+    <th align="center">⚙️ Operations & Infrastructure</th>
   </tr>
   <tr>
     <td valign="top" width="33%">
-      <h3 align="center">Frontend (JS/TS)</h3>
+      <h3 align="center">🌐 Frontend (JS/TS)</h3>
       <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px">
         <!-- Web Foundations -->
         <a href="#" title="HTML5 - 90%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
@@ -44,7 +58,7 @@ With strengths in:
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Backend & APIs</h3>
+      <h3 align="center">🔌 Backend & APIs</h3>
       <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px">
         <!-- JS/TS Ecosystem (Primary) -->
         <a href="#" title="Node.js - 90%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
@@ -64,12 +78,14 @@ With strengths in:
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Cloud & DevOps</h3>
+      <h3 align="center">☁️ Cloud & DevOps</h3>
       <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px">
         <!-- Cloud Platforms -->
         <a href="#" title="Azure - 85%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
         <a href="#" title="AWS - 80%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
         <a href="#" title="GCP - 75%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/></a>
+        <a href="#" title="Vercel - 80%"><img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="40" height="40"/></a>
+        <a href="#" title="Digital Ocean - 90%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digital ocean" width="40" height="40"/></a>
         <!-- Containerization -->
         <a href="#" title="Docker - 85%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
         <a href="#" title="Kubernetes - 70%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
@@ -77,6 +93,7 @@ With strengths in:
         <!-- CI/CD -->
         <a href="#" title="GitHub - 90%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
         <a href="#" title="GitHub Actions - 85%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/></a>
+        <a href="#" title="Azure DevOps - 80%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="azure devops" width="40" height="40"/></a>
         <a href="#" title="Jenkins - 75%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a>
         <a href="#" title="Terraform - 75%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
       </div>
@@ -84,7 +101,7 @@ With strengths in:
   </tr>
   <tr>
     <td valign="top" width="33%">
-      <h3 align="center">Testing & QA</h3>
+      <h3 align="center">🧪 Testing & QA</h3>
       <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px">
         <!-- JavaScript Testing (Primary) -->
         <a href="#" title="Jest - 85%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/></a>
@@ -104,7 +121,7 @@ With strengths in:
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Data & Storage</h3>
+      <h3 align="center">💾 Data & Storage</h3>
       <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px">
         <!-- SQL -->
         <a href="#" title="Microsoft SQL Server - 80%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/></a>
@@ -117,11 +134,10 @@ With strengths in:
         <a href="#" title="Firebase - 80%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a>
         <!-- ORM/Data Access -->
         <a href="#" title="Prisma - 80%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/></a>
-        <a href="#" title="TypeORM - 75%"><img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" alt="typeorm" width="40" height="40"/></a>
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Observability & Analytics</h3>
+      <h3 align="center">📊 Observability & Analytics</h3>
       <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px">
         <!-- Monitoring -->
         <a href="#" title="Grafana - 75%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/></a>
@@ -138,19 +154,3 @@ With strengths in:
     </td>
   </tr>
 </table>
-
-## Professional Certifications 🏆
-
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="20" height="20"/> **Azure Developer Associate** – Microsoft
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> **AWS Cloud Essentials** – AWS
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="20" height="20"/> **Google Cloud Digital Leader** – Google
-
-## Currently Learning 📚
-
-Currently focusing on Solution Architecture and app scalability:
-
-- Enterprise-level architectural patterns for distributed systems
-- Multi-cloud deployment strategies and best practices
-- High-availability design patterns for mission-critical applications
-- Microservices orchestration at scale
-- Cloud cost optimization and resource governance
