@@ -51,9 +51,10 @@ I'm focused on Solutions Architecture and Systems Scalability and Availability.
         <a href="#" title="JavaScript - 90%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
         <a href="#" title="TypeScript - 90%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
         <a href="#" title="React - 90%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+        <a href="#" title="React Router - 85%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="react router" width="40" height="40"/></a>
+        <a href="#" title="Redux - 85%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
         <a href="#" title="Next.js - 85%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
         <a href="#" title="Angular - 75%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a>
-        <a href="#" title="Redux - 85%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
         <a href="#" title="Tailwind CSS - 85%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/></a>
         <a href="#" title="Material UI - 80%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/></a>
         <a href="#" title="PWA - 80%"><img src="https://raw.githubusercontent.com/webmaxru/progressive-web-apps-logo/master/pwalogo.svg" alt="pwa" width="40" height="40"/></a>
