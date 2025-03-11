@@ -43,7 +43,7 @@ I'm focused on Solutions Architecture and Systems Scalability and Availability.
   </tr>
   <tr>
     <td valign="top" width="33%">
-      <h3 align="center">🌐 Frontend (JS/TS)</h3>
+      <h3 align="center">🌐 Frontend </h3>
       <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px">
         <!-- Web Foundations -->
         <a href="#" title="HTML5 - 90%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
@@ -58,6 +58,7 @@ I'm focused on Solutions Architecture and Systems Scalability and Availability.
         <a href="#" title="Tailwind CSS - 85%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/></a>
         <a href="#" title="Material UI - 80%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/></a>
         <a href="#" title="PWA - 80%"><img src="https://raw.githubusercontent.com/webmaxru/progressive-web-apps-logo/master/pwalogo.svg" alt="pwa" width="40" height="40"/></a>
+        <a href="#" title="Flutter - 60%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
       </div>
     </td>
     <td valign="top" width="33%">
