@@ -128,7 +128,7 @@ With strengths in:
         <a href="#" title="Prometheus - 70%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/></a>
         <!-- Analytics -->
         <a href="#" title="Google Analytics - 80%"><img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="google analytics" width="40" height="40"/></a>
-        <a href="#" title="Microsoft Clarity - 75%"><img src="https://clarity.microsoft.com/static/images/clarity-icon-blue.svg" alt="microsoft clarity" width="40" height="40"/></a>
+        <a href="#" title="Microsoft Clarity - 75%"><img src="https://raw.githubusercontent.com/gisioraelvis/gisioraelvis/refs/heads/v1/assets/images/tech/microsoft-clarity.jpg" alt="microsoft clarity" width="40" height="40"/></a>
         <!-- Logging -->
         <a href="#" title="ELK Stack - 65%"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk stack" width="40" height="40"/></a>
         <a href="#" title="Datadog - 60%"><img src="https://imgix.datadoghq.com/img/dd_logo_70x75.png" alt="datadog" width="40" height="40"/></a>
