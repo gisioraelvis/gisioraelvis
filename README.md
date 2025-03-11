@@ -6,11 +6,13 @@
 
 ## 🔧 Expert At
 
-- 🔨 Building scalable, resilient cloud-native applications
-- 🔄 Implementing CI/CD pipelines and DevOps best practices
-- 🧪 Crafting comprehensive testing strategies for system reliability
-- 🔌 Designing and integrating robust APIs for seamless system communication
-- 📊 Optimizing performance across complex distributed systems
+- 🚀 Developing full-stack web applications with modern frameworks and libraries
+- ☁️ Architecting and managing cloud infrastructure across multiple service providers
+- 🔌 Designing robust API ecosystems with comprehensive documentation and security
+- 🧪 Implementing end-to-end testing strategies across all application layers
+- 🔄 Building automated CI/CD workflows for efficient software delivery
+- 📱 Creating responsive, accessible, and performant user interfaces
+- 💾 Working with both SQL and NoSQL database systems for optimal data management
 
 Driven by Agile methodologies, collaborative innovation and continuous technical growth.
 
@@ -18,7 +20,7 @@ With strengths in: 🧠 critical thinking, 📊 analytical problem-solving, 👥
 
 ## 📚 Currently Learning
 
-I'm focused on Solution Architecture and Systems Scalability and Availability.
+I'm focused on Solutions Architecture and Systems Scalability and Availability.
 
 - Enterprise-level architectural patterns for distributed systems
 - Multi-cloud deployment strategies and best practices
