@@ -6,6 +6,7 @@
 
 <summary>🔧 <b>Expert At</b></summary>
 <br>
+I specialize in building scalable, secure, and high-performance web applications. My expertise includes:
 
 - 🚀 Developing full-stack web applications with modern frameworks and libraries
 - ☁️ Architecting and managing cloud infrastructure across multiple service providers
@@ -18,7 +19,7 @@
 <details>
 <summary>📚 <b>Currently Learning</b></summary>
 <br>
-I'm focused on Solutions Architecture and Systems Scalability and Availability.
+I'm currently focused on mastering Solutions Architecture, Systems Scalability and Availability. Diving deep into:
 
 - 🏗️ Enterprise-level architectural patterns for distributed systems
 - ☁️ Multi-cloud deployment strategies and best practices
@@ -27,7 +28,7 @@ I'm focused on Solutions Architecture and Systems Scalability and Availability.
 - 💰 Cloud cost optimization and resource governance
 </details>
 
-<details open>
+<details>
 <summary> 🛠️ <b>Tech Stack</b></summary>
 <br>
 <summary>🌐 <b>Frontend</b></summary>
