@@ -14,6 +14,12 @@
 - 📱 Creating responsive, accessible, and performant user interfaces  
 - 💾 Working with both SQL and NoSQL database systems for optimal data management
 
+Driven by Agile methodologies, collaborative innovation and continuous technical growth.
+
+With strengths in:
+
+🧠 critical thinking, 📊 analytical problem-solving, 👥 teamwork, 🗣️ clear communication, and 🔄 adaptability.
+
 ## 📚 Currently Learning
 
 I'm focused on Solutions Architecture and Systems Scalability and Availability.
