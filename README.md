@@ -4,9 +4,9 @@
 
 > Software Engineer | Full-Stack Developer | Cloud Architect
 
-<summary>🔧 <b>Expert At</b></summary>
-<br>
-I specialize in building scalable, secure, and high-performance web applications. My expertise includes:
+## 📖 About Me
+
+I specialize in building scalable, secure and high-performance web applications. My expertise includes:
 
 - 🚀 Developing full-stack web applications with modern frameworks and libraries
 - ☁️ Architecting and managing cloud infrastructure across multiple service providers
