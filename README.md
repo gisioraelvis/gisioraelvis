@@ -6,23 +6,23 @@
 
 ## 🔧 Expert At
 
-- 🚀 Developing full-stack web applications with modern frameworks and libraries
-- ☁️ Architecting and managing cloud infrastructure across multiple service providers
-- 🔌 Designing robust API ecosystems with comprehensive documentation and security
-- 🧪 Implementing end-to-end testing strategies across all application layers
-- 🔄 Building automated CI/CD workflows for efficient software delivery
-- 📱 Creating responsive, accessible, and performant user interfaces
+- 🚀 Developing full-stack web applications with modern frameworks and libraries  
+- ☁️ Architecting and managing cloud infrastructure across multiple service providers  
+- 🔌 Designing robust API ecosystems with comprehensive documentation and security  
+- 🧪 Implementing end-to-end testing strategies across all application layers  
+- 🔄 Building automated CI/CD workflows for efficient software delivery  
+- 📱 Creating responsive, accessible, and performant user interfaces  
 - 💾 Working with both SQL and NoSQL database systems for optimal data management
 
 ## 📚 Currently Learning
 
 I'm focused on Solutions Architecture and Systems Scalability and Availability.
 
-- Enterprise-level architectural patterns for distributed systems
-- Multi-cloud deployment strategies and best practices
-- High-availability design patterns for mission-critical applications
-- Microservices orchestration at scale
-- Cloud cost optimization and resource governance
+- 🏗️ Enterprise-level architectural patterns for distributed systems  
+- ☁️ Multi-cloud deployment strategies and best practices  
+- 🔄 High-availability design patterns for mission-critical applications  
+- 🧩 Microservices orchestration at scale  
+- 💰 Cloud cost optimization and resource governance
 
 ## 🛠️ Tech Stack
 
