@@ -1,6 +1,3 @@
-> [!NOTE]
-> Goes into the [special repo](https://github.com/gisioraelvis/gisioraelvis.git) that appears on my github profile!
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gisioraelvis.gisioraelvis">
 
 # Hi 👋, I'm Elvis
@@ -17,9 +14,6 @@
 - 📱 Creating responsive, accessible, and performant user interfaces
 - 💾 Working with both SQL and NoSQL database systems for optimal data management
 
-Driven by Agile methodologies, collaborative innovation and continuous technical growth. With strengths in: 
-🧠 Critical Thinking, 📊 Analytical Problem-solving, 👥 Teamwork, 🗣️ Clear Communication and 🔄 Adaptability.
-
 ## 📚 Currently Learning
 
 I'm focused on Solutions Architecture and Systems Scalability and Availability.
@@ -29,12 +23,6 @@ I'm focused on Solutions Architecture and Systems Scalability and Availability.
 - High-availability design patterns for mission-critical applications
 - Microservices orchestration at scale
 - Cloud cost optimization and resource governance
-
-## 🏆 Professional Certifications
-
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="20" height="20"/> **Azure Developer Associate** – Microsoft
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> **AWS Cloud Essentials** – AWS
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="20" height="20"/> **Google Cloud Digital Leader** – Google
 
 ## 🛠️ Tech Stack
 
@@ -154,8 +142,6 @@ I'm focused on Solutions Architecture and Systems Scalability and Availability.
         <!-- Logging -->
         <a href="#" title="ELK Stack - 65%"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk stack" width="40" height="40"/></a>
         <a href="#" title="Datadog - 60%"><img src="https://imgix.datadoghq.com/img/dd_logo_70x75.png" alt="datadog" width="40" height="40"/></a>
-        <!-- APM -->
-        <a href="#" title="New Relic - 60%"><img src="https://newrelic.com/themes/custom/erno/assets/mediakit/new_relic_logo_vertical.svg" alt="new relic" width="40" height="40"/></a>
       </div>
     </td>
   </tr>
