@@ -19,7 +19,7 @@ I build scalable, secure and high-performance web applications. My expertise inc
 <details>
 <summary>📚 <b>Currently Learning</b></summary>
 
-I'm currently focused on mastering Solutions Architecture, Systems Scalability and Availability. Diving deep into:
+I'm currently focused on mastering Solutions Architecture and Systems Reliability. Diving deep into:
 
 - 🏗️ Enterprise-level architectural patterns for distributed systems
 - ☁️ Multi-cloud deployment strategies and best practices
