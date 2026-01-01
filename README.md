@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Elvis
 
-> Software Engineer | Full-Stack Developer | Cloud Architect
+> Software Engineer | Full-Stack Developer
 
 ## 📖 About Me
 
