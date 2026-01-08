@@ -28,7 +28,7 @@ I'm currently focused on mastering Solutions Architecture, Systems Scalability a
 - 💰 Cloud cost optimization and resource governance
 </details>
 
-<details>
+<details open>
 <summary> 👨‍💻 <b>Tech Stack</b></summary>
 
 ##### 🌐 Frontend
@@ -64,6 +64,7 @@ I'm currently focused on mastering Solutions Architecture, Systems Scalability a
 ###### 🧪 Testing
 
 <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/-NUnit-25A162?style=flat&logo=nunit&logoColor=white" />
 <img src="https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white" />
 <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
@@ -78,6 +79,5 @@ I'm currently focused on mastering Solutions Architecture, Systems Scalability a
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" />
-<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
 
 </details>
